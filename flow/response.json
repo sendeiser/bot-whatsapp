@@ -23,20 +23,19 @@
     "STEP_1":{
         "replyMessage":[
             "Hola! y✌️ Bienvenido a este 🤖 CHATBOT de Whatsapp, lo primero \n",
-            "decirte que mi nombre es *Leifer Mendez*😎  \n",
-            "\n Si necesitas ver más info sobre las capacitacion tecnicas ",
-            "escribe *cursos* o *info* o escribe *audio*"
+            "decirte que mi nombre es *Martin Gonzalez, y cree este bot para ayudarlos*😎  \n",
+            "\n Soy tu profe de Matematicas, aca tendras apuntes y demas para que puedas",
+            "resolver las actividades y solventar algunas dudas de la clase  \n"
         ],
-        "media":null,
+        "media":"https://www.caracteristicas.co/wp-content/uploads/2018/10/matematicas-e1581735212109.jpg",
         "trigger":null,
         "actions":{
-            "title":"¿Que te interesa ver?",
-            "message":"Recuerda todo este contenido es gratis y estaria genial que me siguas!",
-            "footer":"Gracias",
+            "title":"Bienvenido/a, Elige tu materia",
+            "message":"Por favor presiona en el boton con la materia que estas cursando:",
+            "footer":"Gracias y Suerte",
             "buttons":[
-                {"body":"Cursos"},
-                {"body":"Youtube"},
-                {"body":"Telegram"}
+                {"body":"Matematica Aplicada"},
+                {"body":"Matematica I"}
             ]
         }
     },
@@ -51,7 +50,7 @@
             "*AWS* Basico (Pago) \n\n",
             "Escribe la palabra del tema que te interese \n"
         ],
-        "media":"https://i.giphy.com/media/5J5gN0WUk0VToHaK2p/giphy-downsized.gif",
+        "media":"inicio.jpg",
         "trigger":null
     },
     "STEP_2_1":{

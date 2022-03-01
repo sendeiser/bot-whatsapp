@@ -1,44 +1,42 @@
 [
     {
-        "keywords":  [
-            "hola",
-            "hola!",
-            "ola",
-            "ole",
-            "inicio",
-            "welcome",
-            "buenos días",
-            "buenas tardes",
-            "buenas noches",
-            "me dieron este número",
-            "venden a crédito",
-            "quisiera saber si venden",
-            "necesito saber"
+        "keywords":  [  
+            "menu",
+            "Menu",
+            "menú",
+            "Menú",
+            "ménu",
+            "Ménu",
+            "men",
+            "men u",
+            "me nu"
         ],
         "key": "STEP_1"
     },
     {
         "keywords":  [
-            "cursos",
-            "info",
-            "curso"        ],
+            "funciones",
+            "Funciones"
+                    ],
         "key": "STEP_2"
     },
     {
         "keywords":  [
-            "angular"
+            "Analisis",
+            "analisis",
+            "Analisis de Funciones"
         ],
         "key": "STEP_2_1"
     },
     {
         "keywords":  [
-            "node"
+            "Info Complementaria"
         ],
         "key": "STEP_2_2"
     },
     {
         "keywords":  [
-            "ngrx"
+            "Matematica Aplicada"
         ],
         "key": "STEP_2_3"
     },
