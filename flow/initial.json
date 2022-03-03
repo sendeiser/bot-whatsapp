@@ -1,15 +1,15 @@
 [
     {
         "keywords":  [  
-            "menu",
-            "Menu",
-            "menú",
-            "Menú",
-            "ménu",
-            "Ménu",
-            "men",
-            "men u",
-            "me nu"
+            "/menu",
+            "/Menu",
+            "/menú",
+            "/Menú",
+            "/ménu",
+            "/Ménu",
+            "/men",
+            "/men u",
+            "/me nu"
         ],
         "key": "STEP_1"
     },
